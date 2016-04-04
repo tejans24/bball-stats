@@ -1,0 +1,18 @@
+body {
+  padding: 20px;
+  width: 775px;
+  height: 500px;
+}
+
+.section--game {
+  overflow: scroll;
+}
+
+.section--unstarted-game {
+  width: 315px;
+  height: 110px;
+}
+
+.section--date-navigation {
+  display: inline;
+}
